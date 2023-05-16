@@ -41,6 +41,10 @@
     margin-top: 25px;
 }
 
+.product__title-img > img {
+    border-radius: 12px;
+}
+
 .titles__description {
     display: flex;
     flex-direction: column;
@@ -120,6 +124,10 @@
     height: 100px;
     margin-top: 45px;
 } 
+
+.product__addButton:hover {
+    background: #0772a3;
+}
 
 .product__addButton:last-child{
     margin-top: 65px;
