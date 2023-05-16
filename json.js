@@ -1,4 +1,3 @@
-
 export const insurance_plans = [
     {
         id: 1,
@@ -10,8 +9,7 @@ export const insurance_plans = [
             'Cobertura en todos los centros médicos'
         ],
         price: 60000,
-        pictureUrl:
-            'https://imgur.com/3SSSAGW'
+        pictureUrl: 'https://imgur.com/3SSSAGW'
     },
     {
         id: 2,
@@ -23,8 +21,7 @@ export const insurance_plans = [
             'Cobertura adicional para jugadores de golf'
         ],
         price: 182,
-        pictureUrl:
-            'https://imgur.com/DtYuqLC'
+        pictureUrl: 'https://imgur.com/DtYuqLC'
     },
     {
         id: 3,
@@ -36,8 +33,7 @@ export const insurance_plans = [
             'Reintegro de gastos de hotelería y desplazamiento.'
         ],
         price: 182,
-        pictureUrl:
-            'https://imgur.com/hldhLT3'
+        pictureUrl: 'https://imgur.com/hldhLT3'
     },
     {
         id: 4,
@@ -45,11 +41,11 @@ export const insurance_plans = [
         description: [
             '100% cobertura en consultas ambulatorias',
             'Ambulancia 24hs',
+            'Doctores en linea',
             '50% descuento en medicamentos'
         ],
         price: 18000,
-        pictureUrl:
-            'https://imgur.com/a2B29lw'
+        pictureUrl: 'https://imgur.com/a2B29lw'
     },
     {
         id: 5,
@@ -58,11 +54,11 @@ export const insurance_plans = [
             '100% cobertura en consultas ambulatorias',
             'Ambulancia 24hs',
             '75% descuento en medicamentos',
+            'Doctores en linea',
             '1 par de lentes gratis'
         ],
         price: 25000,
-        pictureUrl:
-            'https://imgur.com/OFwVVyP'
+        pictureUrl: 'https://imgur.com/OFwVVyP'
     },
     {
         id: 6,
@@ -72,12 +68,11 @@ export const insurance_plans = [
             'Ambulancia 24hs',
             '75% descuento en medicamentos',
             '1 par de lentes gratis',
-            'Consultas virtuales (Cam doctor)',
+            'Doctores en linea',
             '1 cirugía gratis'
         ],
         price: 38000,
-        pictureUrl:
-            'https://imgur.com/AL4zfBw'
+        pictureUrl: 'https://imgur.com/AL4zfBw'
     },
     {
         id: 7,
@@ -87,13 +82,12 @@ export const insurance_plans = [
             'Ambulancia 24hs',
             '75% descuento en medicamentos',
             '1 par de lentes gratis',
-            'Consultas virtuales (Cam doctor)',
+            'Doctores en linea',
             '1 cirugía gratis',
             'Reintegro de $200.000 pesos por año en odontología'
         ],
         price: 60000,
-        pictureUrl:
-            'https://imgur.com/YTTy5Gf'
+        pictureUrl: 'https://imgur.com/YTTy5Gf'
     },
     {
         id: 8,
@@ -103,14 +97,13 @@ export const insurance_plans = [
             'Ambulancia 24hs',
             '90% descuento en medicamentos',
             '1 par de lentes gratis',
-            'Consultas virtuales (Cam doctor)',
+            'Doctores en linea',
             '2 cirugía gratis',
             'Reintegro de $200.000 pesos por año en odontología',
             '1 internación gratis'
         ],
         price: 80000,
-        pictureUrl:
-            'https://imgur.com/k4hxm0p'
+        pictureUrl: 'https://imgur.com/k4hxm0p'
     },
     {
         id: 9,
@@ -120,7 +113,7 @@ export const insurance_plans = [
             'Ambulancia 24hs',
             '90% descuento en medicamentos',
             '1 par de lentes gratis',
-            'Consultas virtuales (Cam doctor)',
+            'Doctores en linea',
             '2 cirugía gratis',
             'Reintegro de $200.000 pesos por año en odontología',
             '1 internación gratis',
@@ -128,7 +121,6 @@ export const insurance_plans = [
             'Reintegro del 50% en gimnasio'
         ],
         price: 99.999,
-        pictureUrl:
-            'https://imgur.com/en75wYX'
+        pictureUrl: 'https://imgur.com/en75wYX'
     }
 ];
